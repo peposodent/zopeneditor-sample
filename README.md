@@ -8,7 +8,7 @@ The sample applications consist of the following files:
 
 ### COBOL Examples
 
-- COBOL programs: `SAM1` and `SAM2`
+- COBOL progrms: `SAM1` and `SAM2`
 - COPYBOOKS: `CUSTCOPY` and `TRANREC`
 - Data source files: `CUSTFILE` and `TRANFILE`
 - JCL members that set up and run the application: `ALLOCATE` and `RUN`.
